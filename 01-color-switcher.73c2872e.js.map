@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/01-color-switcher.js"],"names":["require","color","rgba"],"mappings":";;;AAE8B,aAF9BA,QAAA,qBAEA,MAAMC,EAAQC,KAAK,EAAG,EAAG,EAAG","file":"01-color-switcher.73c2872e.js","sourceRoot":"..\\src","sourcesContent":["import '../css/common.css';\r\n\r\nconst color = rgba(0, 0, 0, 0);\r\n"]}
